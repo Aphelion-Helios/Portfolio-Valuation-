@@ -5,6 +5,8 @@
 
 [Project Link- https://hammadrkh.wixsite.com/portfolio/projects/quant-finance-modelling-in-r)
 
+![alt text](https://static.wixstatic.com/media/d2757e_45999389e3204757bc67eb0d8e3b3301~mv2.png/v1/fill/w_1408,h_677,al_c,q_90,enc_auto/d2757e_45999389e3204757bc67eb0d8e3b3301~mv2.png/to/img.png)
+
 # Implementing Quantitative Balance Sheet Strategy of e-merchant data to:
 
 -Create a valuation document for a fintech loan portfolio.
